@@ -2,7 +2,7 @@
 # STEP 1: Your Identity (required)
 # ============================================================
 name: "Tiara Magda Natania Sianipar"
-title: "Physics student"
+title: "Physics Student"
 institution: "Diponegoro University"
 email: tiarasianipar264@gmail.com
 photo: tiara_foto.jpeg  # place your photo in images/
@@ -11,12 +11,13 @@ photo: tiara_foto.jpeg  # place your photo in images/
 # STEP 2: Your Links (optional -- leave blank to hide an icon)
 # ============================================================
 links:
-  google_scholar: "https://scholar.google.com/citations?user=B7vSqZsAAAAJ"
+  google_scholar:
   github: "https://github.com/tiara264"
-  researchgate: "https://www.researchgate.net/"
+  researchgate: 
   orcid: ""
   twitter: ""
   linkedin: ""
+  instagram: "https://www.instagram.com/aramagda_/"
   cv: ""  # e.g., "papers/cv.pdf"
 
 # ============================================================
